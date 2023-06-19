@@ -11,50 +11,50 @@ import product8 from './assets/8.webp'
 const PRODUCTS=[
   {
     id:1,
-    productName:'iphone1',
-    price:999.0,
+    productName:'Iphone 12',
+    price:750.0,
     productImage:product1
   },
   {
     id:2,
-    productName:'iphone2',
-    price:999.0,
+    productName:'Macbook Pro',
+    price:1000.0,
     productImage:product2
   },
   {
     id:3,
-    productName:'iphone3',
-    price:999.0,
+    productName:'Camera',
+    price:140.0,
     productImage:product3
   },
   {
     id:4,
-    productName:'iphone4',
-    price:999.0,
+    productName:'Jacket',
+    price:45.0,
     productImage:product4
   },
   {
     id:5,
-    productName:'iphone5',
-    price:999.0,
+    productName:'LED strips',
+    price:80.0,
     productImage:product5
   },
   {
     id:6,
-    productName:'iphone6',
-    price:999.0,
+    productName:'Sweat Shirt',
+    price:52.0,
     productImage:product6
   },
   {
     id:7,
-    productName:'iphone7',
-    price:999.0,
+    productName:'Golf Shirt',
+    price:35.0,
     productImage:product7
   },
   {
     id:8,
-    productName:'iphone8',
-    price:999.0,
+    productName:'Baseball Cap',
+    price:14.0,
     productImage:product8
   }
 ]
